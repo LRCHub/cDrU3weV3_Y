@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Put Your Records On",
+  "base_artist": "Corinne Bailey Rae",
+  "createdAt": "2026-02-26T15:15:32.294596Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Put Your Records On Put Your Records On",
+      "artist": "Corinne Bailey Rae",
+      "has_synced": true,
+      "path": "select/01_Put_Your_Records_On_Put_Your_Records_On_Corinne_Bailey_Rae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "CorinneBaileyRaeVEVO",
+      "has_synced": true,
+      "path": "select/02_Put_Your_Records_On_CorinneBaileyRaeVEVO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "CYRIL",
+      "has_synced": true,
+      "path": "select/03_Put_Your_Records_On_CYRIL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/04_Put_Your_Records_On_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "Corinne Bailey Rae",
+      "has_synced": true,
+      "path": "select/05_Put_Your_Records_On_Corinne_Bailey_Rae.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "The Chipettes",
+      "has_synced": true,
+      "path": "select/06_Put_Your_Records_On_The_Chipettes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "Cyril",
+      "has_synced": true,
+      "path": "select/07_Put_Your_Records_On_Cyril.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "Danielle Bradbery",
+      "has_synced": false,
+      "path": "select/08_Put_Your_Records_On_Danielle_Bradbery.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "Corinne Bailey-Rae",
+      "has_synced": true,
+      "path": "select/09_Put_Your_Records_On_Corinne_Bailey-Rae.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "89.Put Your Records On",
+      "artist": "Aslove",
+      "has_synced": true,
+      "path": "select/10_89.Put_Your_Records_On_Aslove.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "Rae, Corinne Bailey",
+      "has_synced": true,
+      "path": "select/11_Put_Your_Records_On_Rae,_Corinne_Bailey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "Corrine Bailey Rae",
+      "has_synced": true,
+      "path": "select/12_Put_Your_Records_On_Corrine_Bailey_Rae.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Put Your Records On",
+      "artist": "Verschillende",
+      "has_synced": false,
+      "path": "select/13_Put_Your_Records_On_Verschillende.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Put Your Records On",
+      "artist": "Corinne Bailey Rae",
+      "has_synced": false,
+      "path": "select/pl_01_Put_Your_Records_On_Corinne_Bailey_Rae.txt"
+    }
+  ]
+}
